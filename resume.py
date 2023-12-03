@@ -39,6 +39,7 @@ with col1:
 with col2:
     
 
+    # st.subheader('SKILLS',divider='rainbow')
     st.subheader('SKILLS',divider='rainbow')
     st.markdown('Python')       
     st.markdown('Sql')
